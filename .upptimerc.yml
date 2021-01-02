@@ -6,6 +6,8 @@ sites:
     url: https://danielmschmidt.de
   - name: Daniel-S.de
     url: https://daniel-s.de
+  - name: Review-Now.de
+    url: https://review-now.de
 
 status-website:
   baseUrl: /uptime
