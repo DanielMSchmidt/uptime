@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3170,
-    "timeDay": 3764,
-    "timeWeek": 3619,
-    "timeMonth": 3170,
-    "timeYear": 3170,
+    "time": 3089,
+    "timeDay": 801,
+    "timeWeek": 3230,
+    "timeMonth": 3089,
+    "timeYear": 3089,
     "dailyMinutesDown": {}
   },
   {
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/daniel-s.de",
     "slug": "daniel-s-de",
     "status": "up",
-    "uptime": "99.88%",
+    "uptime": "99.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
-    "time": 2286,
-    "timeDay": 2407,
-    "timeWeek": 1998,
-    "timeMonth": 2286,
-    "timeYear": 2286,
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 2294,
+    "timeDay": 2521,
+    "timeWeek": 1992,
+    "timeMonth": 2294,
+    "timeYear": 2294,
     "dailyMinutesDown": {
       "2020-12-29": 41
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 755,
-    "timeWeek": 751,
-    "timeMonth": 745,
-    "timeYear": 745,
+    "time": 746,
+    "timeDay": 771,
+    "timeWeek": 753,
+    "timeMonth": 746,
+    "timeYear": 746,
     "dailyMinutesDown": {}
   }
 ]
