@@ -4,19 +4,19 @@
     "url": "https://danielmschmidt.de",
     "icon": "https://favicons.githubusercontent.com/danielmschmidt.de",
     "slug": "daniel-m-schmidt-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3225,
-    "timeDay": 2901,
-    "timeWeek": 3550,
-    "timeMonth": 3259,
-    "timeYear": 3225,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 3235,
+    "timeDay": 3208,
+    "timeWeek": 3577,
+    "timeMonth": 3275,
+    "timeYear": 3235,
     "dailyMinutesDown": {
-      "2021-02-21": 0
+      "2021-02-21": 9
     }
   },
   {
