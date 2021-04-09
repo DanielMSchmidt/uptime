@@ -4,7 +4,7 @@
     "url": "https://danielmschmidt.de",
     "icon": "https://favicons.githubusercontent.com/danielmschmidt.de",
     "slug": "daniel-m-schmidt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 3128,
     "timeDay": 2356,
-    "timeWeek": 3673,
+    "timeWeek": 3770,
     "timeMonth": 3060,
     "timeYear": 3128,
     "dailyMinutesDown": {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.95%",
     "time": 2398,
     "timeDay": 5311,
-    "timeWeek": 2687,
+    "timeWeek": 2862,
     "timeMonth": 2583,
     "timeYear": 2398,
     "dailyMinutesDown": {
