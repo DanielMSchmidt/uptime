@@ -13,7 +13,7 @@
     "time": 2677,
     "timeDay": 260,
     "timeWeek": 243,
-    "timeMonth": 621,
+    "timeMonth": 458,
     "timeYear": 2677,
     "dailyMinutesDown": {
       "2021-05-12": 1018,
@@ -26,10 +26,10 @@
     "url": "https://daniel-s.de",
     "icon": "https://favicons.githubusercontent.com/daniel-s.de",
     "slug": "daniel-s-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 2388,
@@ -38,6 +38,7 @@
     "timeMonth": 1715,
     "timeYear": 2388,
     "dailyMinutesDown": {
+      "2021-06-09": 2,
       "2021-05-22": 20,
       "2021-03-03": 30,
       "2020-12-29": 41
@@ -48,9 +49,9 @@
     "url": "https://review-now.de",
     "icon": "https://favicons.githubusercontent.com/review-now.de",
     "slug": "review-now-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -59,6 +60,8 @@
     "timeWeek": 922,
     "timeMonth": 1248,
     "timeYear": 884,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-09": 0
+    }
   }
 ]
