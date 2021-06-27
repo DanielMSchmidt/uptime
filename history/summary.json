@@ -26,9 +26,9 @@
     "url": "https://daniel-s.de",
     "icon": "https://favicons.githubusercontent.com/daniel-s.de",
     "slug": "daniel-s-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
@@ -38,6 +38,7 @@
     "timeMonth": 1959,
     "timeYear": 2333,
     "dailyMinutesDown": {
+      "2021-06-27": 0,
       "2021-05-22": 20,
       "2021-03-03": 30,
       "2020-12-29": 41
