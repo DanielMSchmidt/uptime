@@ -4,19 +4,19 @@
     "url": "https://danielmschmidt.de",
     "icon": "https://favicons.githubusercontent.com/danielmschmidt.de",
     "slug": "daniel-m-schmidt-de",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 800,
-    "timeDay": 194,
-    "timeWeek": 187,
-    "timeMonth": 194,
+    "time": 795,
+    "timeDay": 190,
+    "timeWeek": 186,
+    "timeMonth": 193,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 10
     }
   },
   {
@@ -48,19 +48,19 @@
     "url": "https://review-now.de",
     "icon": "https://favicons.githubusercontent.com/review-now.de",
     "slug": "review-now-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 653,
-    "timeWeek": 810,
-    "timeMonth": 816,
-    "timeYear": 885,
+    "time": 887,
+    "timeDay": 680,
+    "timeWeek": 802,
+    "timeMonth": 813,
+    "timeYear": 884,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 10
     }
   },
   {
