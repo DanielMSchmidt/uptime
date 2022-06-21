@@ -46,19 +46,19 @@
     "url": "https://review-now.de",
     "icon": "https://favicons.githubusercontent.com/review-now.de",
     "slug": "review-now-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 897,
-    "timeDay": 1061,
-    "timeWeek": 890,
-    "timeMonth": 894,
-    "timeYear": 889,
+    "timeDay": 1030,
+    "timeWeek": 899,
+    "timeMonth": 896,
+    "timeYear": 890,
     "dailyMinutesDown": {
-      "2022-06-21": 0
+      "2022-06-21": 19
     }
   },
   {
