@@ -6,17 +6,17 @@
     "slug": "daniel-m-schmidt-de",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "89.37%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "89.95%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.67%",
     "uptimeYear": "99.97%",
-    "time": 484,
-    "timeDay": 197,
-    "timeWeek": 203,
-    "timeMonth": 210,
+    "time": 477,
+    "timeDay": 196,
+    "timeWeek": 206,
+    "timeMonth": 212,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2022-06-30": 151
+      "2022-06-30": 143
     }
   },
   {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1543,
-    "timeDay": 1185,
-    "timeWeek": 1290,
-    "timeMonth": 1231,
-    "timeYear": 1373,
+    "timeDay": 1199,
+    "timeWeek": 1308,
+    "timeMonth": 1238,
+    "timeYear": 1366,
     "dailyMinutesDown": {
       "2022-05-25": 25,
       "2021-10-27": 40,
@@ -50,17 +50,17 @@
     "slug": "review-now-de",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "89.36%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.61%",
+    "uptimeDay": "89.94%",
+    "uptimeWeek": "98.56%",
+    "uptimeMonth": "99.63%",
     "uptimeYear": "99.97%",
     "time": 894,
-    "timeDay": 619,
-    "timeWeek": 695,
-    "timeMonth": 806,
+    "timeDay": 624,
+    "timeWeek": 710,
+    "timeMonth": 809,
     "timeYear": 877,
     "dailyMinutesDown": {
-      "2022-06-30": 152,
+      "2022-06-30": 144,
       "2022-06-21": 19
     }
   },
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 458,
+    "time": 460,
     "timeDay": 607,
-    "timeWeek": 506,
+    "timeWeek": 535,
     "timeMonth": 495,
-    "timeYear": 458,
+    "timeYear": 460,
     "dailyMinutesDown": {
       "2022-05-04": 405
     }
