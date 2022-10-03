@@ -2,7 +2,7 @@
   {
     "name": "DanielMSchmidt.de",
     "url": "https://danielmschmidt.de",
-    "icon": "https://favicons.githubusercontent.com/danielmschmidt.de",
+    "icon": "https://icons.duckduckgo.com/ip3/danielmschmidt.de.ico",
     "slug": "daniel-m-schmidt-de",
     "status": "up",
     "uptime": "99.80%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 218,
-    "timeDay": 259,
-    "timeWeek": 231,
-    "timeMonth": 226,
+    "timeDay": 268,
+    "timeWeek": 253,
+    "timeMonth": 229,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2022-06-30": 143
@@ -22,7 +22,7 @@
   {
     "name": "Daniel-S.de",
     "url": "https://daniel-s.de",
-    "icon": "https://favicons.githubusercontent.com/daniel-s.de",
+    "icon": "https://icons.duckduckgo.com/ip3/daniel-s.de.ico",
     "slug": "daniel-s-de",
     "status": "up",
     "uptime": "99.97%",
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1350,
-    "timeDay": 1236,
-    "timeWeek": 1216,
-    "timeMonth": 1166,
-    "timeYear": 1162,
+    "time": 1347,
+    "timeDay": 1476,
+    "timeWeek": 1274,
+    "timeMonth": 1179,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2022-09-01": 112,
       "2022-05-25": 25,
@@ -45,7 +45,7 @@
   {
     "name": "Review-Now.de",
     "url": "https://review-now.de",
-    "icon": "https://favicons.githubusercontent.com/review-now.de",
+    "icon": "https://icons.duckduckgo.com/ip3/review-now.de.ico",
     "slug": "review-now-de",
     "status": "up",
     "uptime": "99.98%",
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 900,
-    "timeDay": 1223,
-    "timeWeek": 993,
-    "timeMonth": 925,
-    "timeYear": 899,
+    "time": 901,
+    "timeDay": 1229,
+    "timeWeek": 1065,
+    "timeMonth": 941,
+    "timeYear": 900,
     "dailyMinutesDown": {
       "2022-06-30": 144,
       "2022-06-21": 19
@@ -66,7 +66,7 @@
   {
     "name": "cdktf.danielmschmidt.de",
     "url": "http://cdktf.danielmschmidt.de",
-    "icon": "https://favicons.githubusercontent.com/cdktf.danielmschmidt.de",
+    "icon": "https://icons.duckduckgo.com/ip3/cdktf.danielmschmidt.de.ico",
     "slug": "cdktf-danielmschmidt-de",
     "status": "up",
     "uptime": "99.82%",
@@ -74,11 +74,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 576,
-    "timeDay": 999,
-    "timeWeek": 804,
-    "timeMonth": 733,
-    "timeYear": 576,
+    "time": 578,
+    "timeDay": 998,
+    "timeWeek": 857,
+    "timeMonth": 747,
+    "timeYear": 578,
     "dailyMinutesDown": {
       "2022-05-04": 405
     }
