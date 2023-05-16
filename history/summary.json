@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/daniel-s.de.ico",
     "slug": "daniel-s-de",
     "status": "down",
-    "uptime": "99.78%",
+    "uptime": "99.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "76.22%",
-    "uptimeMonth": "94.47%",
-    "uptimeYear": "99.51%",
+    "uptimeWeek": "64.99%",
+    "uptimeMonth": "91.88%",
+    "uptimeYear": "99.30%",
     "time": 1187,
     "timeDay": 0,
     "timeWeek": 2149,
     "timeMonth": 1482,
     "timeYear": 1218,
     "dailyMinutesDown": {
-      "2023-05-16": 1,
+      "2023-05-16": 1133,
       "2023-05-15": 1440,
       "2023-05-14": 957,
       "2023-04-30": 27,
@@ -49,9 +49,9 @@
     "url": "http://cdktf.danielmschmidt.de",
     "icon": "https://icons.duckduckgo.com/ip3/cdktf.danielmschmidt.de.ico",
     "slug": "cdktf-danielmschmidt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -60,6 +60,8 @@
     "timeWeek": 882,
     "timeMonth": 868,
     "timeYear": 711,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-16": 0
+    }
   }
 ]
