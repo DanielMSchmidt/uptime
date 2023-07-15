@@ -27,14 +27,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "82.83%",
+    "uptimeYear": "82.82%",
     "time": 1192,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1225,
     "dailyMinutesDown": {
-      "2023-07-15": 1289,
+      "2023-07-15": 1352,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
@@ -106,11 +106,11 @@
     "url": "http://cdktf.danielmschmidt.de",
     "icon": "https://icons.duckduckgo.com/ip3/cdktf.danielmschmidt.de.ico",
     "slug": "cdktf-danielmschmidt-de",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 723,
     "timeDay": 935,
@@ -118,7 +118,7 @@
     "timeMonth": 903,
     "timeYear": 775,
     "dailyMinutesDown": {
-      "2023-07-15": 5
+      "2023-07-15": 0
     }
   }
 ]
