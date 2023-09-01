@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
-    "timeDay": 171,
-    "timeWeek": 210,
-    "timeMonth": 206,
+    "timeDay": 155,
+    "timeWeek": 193,
+    "timeMonth": 201,
     "timeYear": 216,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/daniel-s.de.ico",
     "slug": "daniel-s-de",
     "status": "down",
-    "uptime": "88.82%",
+    "uptime": "88.73%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.20%",
+    "uptimeYear": "69.93%",
     "time": 1212,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1231,
+    "timeYear": 1232,
     "dailyMinutesDown": {
-      "2023-08-31": 1,
+      "2023-09-01": 0,
+      "2023-08-31": 1440,
       "2023-08-30": 1440,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
@@ -144,8 +145,7 @@
       "2023-05-16": 1440,
       "2023-05-15": 1440,
       "2023-05-14": 957,
-      "2023-04-30": 27,
-      "2022-09-01": 112
+      "2023-04-30": 27
     }
   },
   {
@@ -159,11 +159,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 744,
-    "timeDay": 724,
-    "timeWeek": 857,
-    "timeMonth": 858,
-    "timeYear": 813,
+    "time": 746,
+    "timeDay": 1154,
+    "timeWeek": 852,
+    "timeMonth": 868,
+    "timeYear": 815,
     "dailyMinutesDown": {}
   }
 ]
