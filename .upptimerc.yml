@@ -2,21 +2,17 @@ owner: DanielMSchmidt
 repo: uptime
 
 sites:
-  - name: DanielMSchmidt.de
-    url: https://danielmschmidt.de
-  - name: Daniel-S.de
-    url: https://daniel-s.de
-  - name: cdktf.danielmschmidt.de
-    url: http://cdktf.danielmschmidt.de
+    - name: DanielMSchmidt.de
+      url: https://danielmschmidt.de
 
 status-website:
-  baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Daniel's Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: Real Time Data for my websites
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    baseUrl: /uptime
+    logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+    name: Daniel's Uptime
+    introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+    introMessage: Real Time Data for my websites
+    navbar:
+        - title: Status
+          href: /
+        - title: GitHub
+          href: https://github.com/$OWNER/$REPO
