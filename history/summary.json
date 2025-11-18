@@ -4,17 +4,19 @@
     "url": "https://danielmschmidt.de",
     "icon": "https://icons.duckduckgo.com/ip3/danielmschmidt.de.ico",
     "slug": "daniel-m-schmidt-de",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 260,
-    "timeDay": 251,
+    "timeDay": 248,
     "timeWeek": 239,
-    "timeMonth": 269,
+    "timeMonth": 268,
     "timeYear": 267,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 6
+    }
   }
 ]
